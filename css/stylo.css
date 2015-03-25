@@ -1,0 +1,79 @@
+body
+{
+	background-color: #F2F2F2;
+}
+
+header
+{
+	
+	width: 100%;
+	margin: 0 0 3em 0;
+	
+
+}
+header img
+{
+	margin: 5px 0 0 0;
+	width: 100%;
+	height: 100%;
+}
+#banear
+{
+	margin: 70px 0 0 0;
+}
+.navbar-brand
+{
+	height: 50px;
+	width: 100px;
+}
+#bs-example-navbar-collapse-1
+{
+	margin: 0 0 0 -4em;
+}
+#barradenavegacion
+{
+position: fixed;
+width: 100%;
+
+}
+#barradenavegacion nav
+{
+	  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+logo
+{
+	width: 60%;
+	height: 65%;
+}
+#inicio
+{
+  color: #fffFFF;
+  background-color: #337ab7;
+  margin-right: 3em;
+  
+}
+#cmo a
+{
+	margin-left: 0.2em;
+	color: #00aad4;
+	background: #F8F8F8;
+
+		trasition: all 0.4s linear;
+	-webkit-transition: all 0.4s linear;
+}
+#cmo a:hover
+{
+	background-color: #666666;
+	color: #FFFFFF;
+	cursor: default; 
+}
+
+
+
+
+
+
+
